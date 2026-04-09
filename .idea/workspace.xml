@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72f9f358-d613-4ced-aca2-245ef5a4e2eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/flashcards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.test.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/ConfirmModal.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/ConfirmModal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/ConfirmModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/ConfirmModal.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/Toast.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Toast.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/Toast.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Toast.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/tests/test_integration.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/test_integration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +41,15 @@
     "Python tests.Python tests for test_bot.TestBotIntegration.executor": "Run",
     "Python tests.Python tests for test_bot.TestNotificationScheduler.test_check_time_and_notify_with_error.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Vitest.All Tests.executor": "Run",
     "Vitest.App Component (unit tests).starts study mode when clicking study button.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/kate/stud/flashcards",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,6 +98,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_bot.TestBotIntegration&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -111,6 +116,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_bot.TestNotificationScheduler.test_check_time_and_notify_with_error&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -126,6 +134,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_bot.TestNotificationScheduler.test_check_time_and_notify_with_users&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -144,7 +155,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -158,6 +169,7 @@
       <updated>1759942644783</updated>
       <workItem from="1759942646167" duration="29077000" />
       <workItem from="1773834848380" duration="37555000" />
+      <workItem from="1775764648777" duration="536000" />
     </task>
     <servers />
   </component>
