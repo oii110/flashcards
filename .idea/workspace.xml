@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f9f358-d613-4ced-aca2-245ef5a4e2eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/flashcards.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/api/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/test_integration.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/tests/test_integration.py" afterDir="false" />
-    </list>
+    <list default="true" id="72f9f358-d613-4ced-aca2-245ef5a4e2eb" name="Changes" comment="new int test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,11 +162,24 @@
       <updated>1759942644783</updated>
       <workItem from="1759942646167" duration="29077000" />
       <workItem from="1773834848380" duration="37555000" />
-      <workItem from="1775764648777" duration="536000" />
+      <workItem from="1775764648777" duration="880000" />
     </task>
+    <task id="LOCAL-00001" summary="new int test">
+      <option name="closed" value="true" />
+      <created>1775765274101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775765274101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new int test" />
+    <option name="LAST_COMMIT_MESSAGE" value="new int test" />
   </component>
 </project>
